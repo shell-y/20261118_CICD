@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "name": "shelly-aula-CI-CD",
+    "slug": "shelly-aula-CI-CD",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
